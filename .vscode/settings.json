@@ -10,7 +10,7 @@
   "breadcrumbs.showFiles": true,
   "breadcrumbs.showFunctions": true,
   "breadcrumbs.showVariables": false,
-  "chat.disableAIFeatures": true,
+  "chat.disableAIFeatures": false,
   "diffEditor.diffAlgorithm": "advanced",
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.autoClosingQuotes": "never",

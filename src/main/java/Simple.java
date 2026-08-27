@@ -19,7 +19,7 @@ public class Simple {
 	public int getData() {
 		// FIXME: replace the following statement to return the
 		// appropriate value.
-		return 0;
+		return data;
 	}
 
 	/**
@@ -30,6 +30,6 @@ public class Simple {
 	public void setData(int value) {
 		// FIXME: replace the following statement to set
 		// data equal to value.
-		data = 0;
+		data = value;
 	}
 }
